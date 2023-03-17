@@ -1,13 +1,13 @@
 {
   "name": "@sixels-heroicons/react",
   "license": "MIT",
-  "version": "2.0.16",
+  "version": "2.1.16",
   "description": "",
   "keywords": [],
   "homepage": "https://github.com/tailwindlabs/heroicons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tailwindlabs/heroicons.git"
+    "url": "https://github.com/sixels/heroicons.git"
   },
   "files": [
     "20",
